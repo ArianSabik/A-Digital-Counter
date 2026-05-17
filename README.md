@@ -10,6 +10,7 @@ counting speed by adjusting the clock frequency.
 Overall, the project demonstrates key digital electronics concepts like clock generation, 
 cascading counters, and display interfacing without a microcontroller, and was tested for stable 
 and accurate operation.
+
 Objectives:
 1. To design a digital counter capable of counting from 00 to 99. 
 2. To generate clock pulses using a 555 timer IC. 
@@ -32,6 +33,7 @@ Serial No. Component Name
 8 LED 
 9 Push Button 
 10 5V DC Supply 
+
 Project Team (Group B1):
 • Arian Sabik (Roll: 2309031)
 • Sara Taskin (Roll: 2309032)
